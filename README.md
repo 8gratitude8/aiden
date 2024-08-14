@@ -12,9 +12,11 @@ aiden is an AI-powered avatar chat interface that aims to revolutionize democrat
    
    [https://replit.com/@5-DeeTV/aiden-final?v=1](https://replit.com/@5-DeeTV/aiden-final?v=1)
 
-2. Click on the "Fork" button to duplicate the Repl into your account.
+   [![Fork Repl](https://replit.com/badge/github/replit/replit.github.io)](https://replit.com/@5-DeeTV/aiden-final?v=1)
 
-3. On the left side of the page, scroll down to the 'Secrets' tab and add the following API keys:
+3. Click on the "Fork" button to duplicate the Repl into your account.
+
+4. On the left side of the page, scroll down to the 'Secrets' tab and add the following API keys:
 
    - GROQ_API_KEY: [Get your API key here](https://console.groq.com/keys)
    - CARTESIA_API_KEY: [Get your API key here](https://play.cartesia.ai/console)
@@ -23,9 +25,9 @@ aiden is an AI-powered avatar chat interface that aims to revolutionize democrat
    - SUPABASE_SERVICE_ROLE_KEY: `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhiY3ljdnFzcWd1emxpYWZocXJuIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcyMTM3MzU0OSwiZXhwIjoyMDM2OTQ5NTQ5fQ.KG21oblMIW_ZMuI8Lc-xN3EoeIlpqcKuC-x88bpLmlA`
    - NEXT_PUBLIC_SYNC_API_KEY: [Get your API key here](https://app.synclabs.so/keys)
 
-4. Once your Secrets are stored, click the 'Run' button at the top of the page. After all necessary packages are installed, the application will open in the 'Webview' panel pop-up.
+5. Once your Secrets are stored, click the 'Run' button at the top of the page. After all necessary packages are installed, the application will open in the 'Webview' panel pop-up.
 
-5. You now have 'aiden' working in production in your local Replit environment. You can interface with the app in one of three ways:
+6. You now have 'aiden' working in production in your local Replit environment. You can interface with the app in one of three ways:
    - Speak your question
    - Type it out in the text field
    - Click on one of the 'Question Bubbles' provided
