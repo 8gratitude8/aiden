@@ -60,8 +60,7 @@ If you prefer to set up Aiden locally:
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
-# Deepfakes Landscape & Architecture
-
+# Deepfake Landscape & Architecture
 ## 4 Main Categories:
 
 1. Voice Clones
@@ -311,4 +310,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-For more information, please visit our [website]([https://replit.com/@5-DeeTV/aiden-final?v=1]) or contact us at gratitude@5-dee.com.
+For more information, please visit our [website](https://replit.com/@5-DeeTV/aiden-final?v=1) or contact us at gratitude@5-dee.com.
