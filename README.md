@@ -1,4 +1,4 @@
-![aidenbanner.jpeg](aidenbanner.jpeg)
+![aidenbanner.png](aidenbanner.png)
 
 # aiden: open-source democracy
 
