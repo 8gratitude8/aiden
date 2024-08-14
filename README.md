@@ -1,6 +1,6 @@
 # aiden: open-source democracy
 
-![aidenbanner.png](aidenbanner.png)
+![Architecture Diagram](aidenbanner.png)
 
 aiden is an AI-powered avatar chat interface that aims to revolutionize democratic engagement through open-source technology. It combines advanced language models, speech synthesis, and video generation to create an interactive digital representative.
 
