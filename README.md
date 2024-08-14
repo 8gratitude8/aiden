@@ -92,6 +92,7 @@ If you prefer to set up Aiden locally:
 - [Eleven Labs](https://elevenlabs.io)
 - [Lepton AI](https://blog.lepton.ai/voice-mode-comes-to-lepton-llm-apis-a5ff3db8c7bf)
 - [Sarvam AI](https://www.sarvam.ai)
+- [Gan AI](https://playground.gan.ai/speech)
 
 ### Video Clones
 
@@ -108,6 +109,7 @@ If you prefer to set up Aiden locally:
 - [EMO](https://humanaigc.github.io/emote-portrait-alive/)
 - [GAIA (MSFT Version)](https://microsoft.github.io/GAIA)
 - [VASA-1 (MSFT V2)](https://www.microsoft.com/en-us/research/project/vasa-1/)
+- [Video ReTalking](https://github.com/OpenTalker/video-retalking)
 - [SwapTalk](https://swaptalk.cc)
 - [FaceFusion](https://github.com/facefusion/facefusion)
 - [EDTalk](https://tanshuai0219.github.io/EDTalk/)
@@ -130,7 +132,7 @@ If you prefer to set up Aiden locally:
 - [Relightable Gaussian Codec Avatars](https://shunsukesaito.github.io/rgca/)
 
 #### Closed Source:
-- HeyGen (livestreaming)
+- [HeyGen (livestreaming)](https://www.heygen.com/interactive-avatar)
 - [Tavus](https://www.tavus.io)
 
 ### 3D Clones
