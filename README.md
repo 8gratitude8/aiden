@@ -9,8 +9,6 @@ aiden is an AI-powered avatar chat interface that aims to revolutionize democrat
 ## 1-Click Fork and Deploy
 
 1. Create and login to your Replit account and access the project page:
-   
-   [https://replit.com/@5-DeeTV/aiden-final?v=1](https://replit.com/@5-DeeTV/aiden-final?v=1)
 
    [![Fork Repl](https://replit.com/badge/github/replit/replit.github.io)](https://replit.com/@5-DeeTV/aiden-final?v=1)
 
