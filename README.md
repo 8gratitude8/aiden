@@ -158,6 +158,7 @@ If you prefer to set up Aiden locally:
 - [Surfel](https://gs-ia.github.io)
 
 ## Fingerprinting
+- [Detect-2B Resemble AI](https://www.resemble.ai/detect2b/)
 - [Avatar Fingerprinting](https://research.nvidia.com/labs/nxp/avatar-fingerprinting/)
 
 # Aiden Usage Instructions and Technical Overview
