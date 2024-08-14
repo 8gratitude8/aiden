@@ -247,7 +247,7 @@ Aiden leverages these cutting-edge technologies to create a seamless and engagin
 
 ## Architecture Overview
 
-![Architecture Diagram](https://path-to-your-architecture-diagram.png)
+![Architecture Diagram](image1.png)
 
 The application follows a client-server architecture with several external service integrations. The frontend, built with Next.js, handles user interactions and audio/video playback. The backend processes user inputs, orchestrates external API calls, and manages data flow between services.
 
